@@ -1,5 +1,6 @@
 # Strings in Python
-# A string is a sequence of characters used to represent text. Strings are an immutable data type, meaning their content cannot be changed after creation.
+# A string is a sequence of characters used to represent text. 
+# Strings are an immutable data type, meaning their content cannot be changed after creation.
 
 ## 3 ways to write a string in Python
 a = 'Tony'
