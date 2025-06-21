@@ -29,13 +29,13 @@ print("Assignment Operators:")
 c = 5
 print("Initial value: c = ", c)
 c += 2
-print("Add and assign: c += 2 = ", c)
+print("Add and assign: c += 2 = ", c) # c = c + 2
 c *= 3
-print("Multiply and assign: c *= 3 = ", c)
+print("Multiply and assign: c *= 3 = ", c) # c = c * 3
 c -= 4
-print("Subtract and assign: c -= 4 = ", c)
+print("Subtract and assign: c -= 4 = ", c) # c = c - 4
 c /= 2
-print("Divide and assign: c /= 2 = ", c)
+print("Divide and assign: c /= 2 = ", c) # c = c / 2
 print()
 
 ## Logical Operators - Used to combine conditional statements
