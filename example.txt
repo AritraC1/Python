@@ -1,0 +1,3 @@
+Hello World!!
+This is File I/O in Python.
+Adding a new line via append.
