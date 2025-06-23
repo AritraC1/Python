@@ -22,6 +22,8 @@ def add(x: int, y: int) -> int:
 
 print(add(3, 4))  # Correct usage
 
+# Advance Type Hints
+
 # Type hints with collections
 from typing import List, Tuple, Dict, Union, Optional
 
