@@ -19,6 +19,7 @@ while (line := input("Enter something: ")) != "quit":
 
 
 # Example 2: In List Comprehensions
+
 # Create a list of lengths for words longer than 3 letters
 words = ["apple", "is", "a", "fruit"]
 lengths = [n for word in words if (n := len(word)) > 3]
