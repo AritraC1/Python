@@ -51,3 +51,8 @@ nickname: Optional[str] = None
 print(f"Nickname: {nickname}")
 nickname = "Ace"
 print(f"Nickname updated: {nickname}")
+
+'''
+Note: Static Type Checking (Not enforced at runtime)
+Tools like 'mypy' or 'pyright' can check for type violations. Example command: mypy filename.py
+'''
