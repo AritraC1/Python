@@ -1,4 +1,4 @@
-# Selection Sort (Select the minimums and swap)
+# Selection Sort (Select the minimums and swap, In-place sorting algorithm)
 
 '''
 Selection Sort is a simple comparison-based sorting algorithm.
