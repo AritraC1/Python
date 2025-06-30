@@ -19,7 +19,7 @@ Stable: No (can be made stable with modifications)
 def selection_sort(arr):
     n = len(arr)
 
-    for i in range(n):
+    for i in range(0, n-1):
         min_index = i
 
         for j in range(i+1, n):
@@ -37,3 +37,18 @@ print("Original Array: ", arr)
 
 sorted_arr = selection_sort(arr)
 print("Sorted Array: ", sorted_arr)
+
+
+'''
+Observations:
+
+swap at index 0 & minimum index, range: [0 - n-1]
+swap at index 1 & minimum index, range: [1 - n-1]
+swap at index 2 & minimum index, range: [2 - n-1]
+.
+.
+.
+.
+.
+swap at index [n-2] & minimum index, range: [n-2 - n-1]
+'''
