@@ -70,7 +70,7 @@ class Solution:
         return word[k - 1]
 '''
 
-# Best Optimized Solution - 
+# Optimized Solution - 
 class Solution:
     def kthCharacter(self, k: int) -> str:
         ans = 0
