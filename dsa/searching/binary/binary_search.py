@@ -10,7 +10,7 @@
 # This reduces the time complexity to O(log n).
 
 def binary_search(arr, target):
-    start, end = 0, len(arr) - 1  # Initialize pointers to start and end of array
+    start, end = 0, len(arr)  # Initialize pointers to start and end of array
     
     while start <= end:
         mid = start + (end - start) // 2;  # Find the middle index
