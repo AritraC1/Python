@@ -59,6 +59,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/AritraC1/Python.git
 cd python
+
 ```
  
 ## Resources
