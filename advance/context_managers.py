@@ -7,7 +7,7 @@ with open("sample.txt", "w") as f:
 
 # No need to call f.close()
 
-# Creating a Custom Context Manager (Class)
+# Custom context managers can be made using: A class with __enter__ and __exit__ & A generator function with @contextmanager
 class MyContext:
     def __enter__(self):
         print("Entered the context.")
