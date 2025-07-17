@@ -1,7 +1,7 @@
 # Python
 
 ## Introduction
-This repo covers Python fundamentals, OOP, DSA, multithreading, exception handling, file I/O, unit testing, and key libraries like collections and itertools. It includes real-world projects and coding challenges (LeetCode, HackerRank).
+This repo covers Python fundamentals, OOP, DSA, multithreading, exception handling, file I/O, and key libraries like collections and itertools. It includes real-world projects and coding challenges (LeetCode, HackerRank).
 
 ## Topics Covered
 
