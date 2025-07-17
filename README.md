@@ -69,7 +69,6 @@ cd python
 | **Chai aur Code**         | Python in-depth (Hindi) | [Part 1](https://www.youtube.com/watch?v=v9bOWjwdTlg&t=17417s&ab_channel=ChaiaurCode) • [Part 2](https://www.youtube.com/watch?v=Cri8__uGk-g&t=13997s&ab_channel=ChaiaurCode) |
 | **Programming with Mosh** | Python in one video     | [Watch Here](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=1118s&pp=ygUGUHl0aG9u)                                                                                             |
 
-
 ## Keep Learning
 “The only way to learn a new programming language is by writing programs in it.” — Dennis Ritchie
 
