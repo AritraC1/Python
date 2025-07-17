@@ -54,12 +54,10 @@ This repo covers Python fundamentals, OOP, DSA, multithreading, exception handli
 | File Organizer                | Sort files into folders based on type                        | Scan directory, move files by extension                                      | `os`, `shutil`                          | File I/O, Automation, Scripting                        |
 
 ## Getting Started
-
 Clone the repository:
 ```bash
 git clone https://github.com/AritraC1/Python.git
 cd python
-
 ```
  
 ## Resources
