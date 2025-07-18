@@ -24,19 +24,19 @@ def print_numbers(lower, upper):
 
 print_numbers(1, 5) # output: 1 2 3 4 5
 ```
-![]()
+![FD for print_number](../../assets/print_numbers.png)
 
 ### Example 2: Print Pattern
 ```python []
 
 ```
-![]()
+
 
 ### Example 3: Factorial
 ```python []
 
 ```
-![]()
+
 
 ## Types of Recursion
 1. **Direct Recursion:** Function calls itself directly.
