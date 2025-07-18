@@ -37,6 +37,24 @@ print_numbers(1, 5) # output: 1 2 3 4 5
 
 ```
 ![]()
+
+## Types of Recursion
+1. **Direct Recursion:** Function calls itself directly.
+2. **Indirect Recursion:** Function A calls B, and B calls A (with a helper function).
+3. **Head Recursion:** Head recursion is when a function calls itself before doing any processing.
+4. **Tail Recursion:** Recursive call is the last operation in the function (can be optimized in some languages).
+5. **Tree Recursion:** Function makes multiple recursive calls (e.g., Fibonacci).
+
+### Head vs. Tail Recursion
+
+| Feature        | Head Recursion                           | Tail Recursion                                        |
+| -------------- | ---------------------------------------- | ----------------------------------------------------- |
+| Order of Call  | Recursive call **before** processing     | Recursive call **after** processing                   |
+| Execution Flow | Builds up call stack first               | Can be optimized to a loop (TCO)                      |
+| Stack Usage    | Generally more memory usage              | More efficient if tail call optimization is available |
+| Use Case       | Problems where post-processing is needed | Problems where results accumulate during the call     |
+
+
 ## Common Pitfalls
 - **Missing Base Case:** Leads to infinite recursion → RecursionError.
 - **Improper Recursive Step:** Might not reach the base case.
