@@ -7,7 +7,7 @@ Recursion is a programming technique where a function calls itself to solve smal
 2. **Recursive Case:** The part where the function calls itself with a smaller or simpler input.
 
 ## Flow Diagram of a Recursion
-![Flow Diagram of Recursion](assets/FD_Recursion.png)
+![Flow Diagram of Recursion](../../assets/FD_Recursion.png)
 
 ## Examples with Flow Diagram
 
