@@ -52,6 +52,7 @@ This repo covers Python fundamentals, OOP, DSA, multithreading, exception handli
 | Expense Tracker               | Track and manage income/expenses                             | Add/edit/delete entries, show totals                                         | Python, CSV or SQLite                   | File I/O, Databases, CRUD                              |
 | Quiz App                      | Conduct a multiple-choice quiz                               | Randomized questions, scoring system                                         | Python standard library                 | Lists, Dictionaries, Input/Output                      |
 | File Organizer                | Sort files into folders based on type                        | Scan directory, move files by extension                                      | `os`, `shutil`                          | File I/O, Automation, Scripting                        |
+|Password Generator             | A tool to create strong, secure passwords                    | Customizable length, includes symbols/numbers/letters, copy to clipboard.    | Python standard library                 | Random module, string manipulation, user input         |
 
 ## Getting Started
 Clone the repository:
