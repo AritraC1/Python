@@ -28,17 +28,38 @@ print_numbers(1, 5) # output: 1 2 3 4 5
 
 > Memory load and memory unload is also known as winding and unwinding
 
-### Example 2: Print Pattern
+### Example 2: Factorial
 ```python []
+def factorial(n):
+    if n <= 1:
+        return 1
+    
+    return n * factorial(n-1)
 
+n = 5 # input: n = 5
+print(factorial(n)) , # output: 120 (5! = 120)
 ```
 
-
-### Example 3: Factorial
+### Example 3: Print Pattern
 ```python []
+def print_pattern(n, current=1):
+    if current > n:
+        return
+    print('*' * current)
+    print_pattern(n, current + 1)
 
+print_pattern(5)
+
+'''
+# Output:
+
+*
+**
+***
+****
+*****
+'''
 ```
-
 
 ## Types of Recursion
 1. **Direct Recursion:** Function calls itself directly.
