@@ -1,3 +1,5 @@
+# Reverse a string, "hello" -> "olleh"
+
 def reverse_string(s):
     if len(s) <= 1:
         return s
