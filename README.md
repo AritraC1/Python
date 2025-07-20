@@ -54,13 +54,6 @@ This repo covers Python fundamentals, OOP, DSA, multithreading, exception handli
 | File Organizer                | Sort files into folders based on type                        | Scan directory, move files by extension                                      | `os`, `shutil`                          | File I/O, Automation, Scripting                        |
 | Password Generator            | A tool to create strong, secure passwords                    | Customizable length, includes symbols/numbers/letters, copy to clipboard.    | Python standard library                 | Random module, string manipulation, user input         |
 
-## Getting Started
-Clone the repository:
-```bash
-git clone https://github.com/AritraC1/Python.git
-cd python
-```
- 
 ## Resources
 
 ### YouTube Channels
@@ -69,6 +62,14 @@ cd python
 |---------------------------|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Chai aur Code**         | Python in-depth (Hindi) | [Part 1](https://www.youtube.com/watch?v=v9bOWjwdTlg&t=17417s&ab_channel=ChaiaurCode) • [Part 2](https://www.youtube.com/watch?v=Cri8__uGk-g&t=13997s&ab_channel=ChaiaurCode) |
 | **Programming with Mosh** | Python in one video     | [Watch Here](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=1118s&pp=ygUGUHl0aG9u)                                                                                             |
+
+## Getting Started
+
+Clone the repository:
+```bash
+git clone https://github.com/AritraC1/Python.git
+cd python
+```
 
 ## Keep Learning
 “The only way to learn a new programming language is by writing programs in it.” — Dennis Ritchie
