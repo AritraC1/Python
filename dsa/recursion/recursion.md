@@ -26,6 +26,8 @@ print_numbers(1, 5) # output: 1 2 3 4 5
 ```
 ![FD for print_number](../../assets/print_numbers.png)
 
+> Memory load and memory unload is also known as winding and unwinding
+
 ### Example 2: Print Pattern
 ```python []
 
