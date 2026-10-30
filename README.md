@@ -1,6 +1,6 @@
 # Python Learning Repository
 
-This repo is a hands-on Python playground for learning core concepts, advanced features, algorithms, and small real-world projects.
+This repo is a hands-on Python playground for learning core concepts, advanced features, algorithms, AI/ML, and small real-world projects.
 
 ## What’s inside
 
