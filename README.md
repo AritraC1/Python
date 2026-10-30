@@ -32,6 +32,20 @@ python core/hello.py
 python projects/snake_water_gun/main.py
 ```
 
+## Get started with AI/ML
+
+You’ll need Python 3.10 or newer. From the repository root, create and activate a virtual environment, install the AI/ML dependencies, and start JupyterLab:
+
+```bash
+cd ai_ml
+python3 -m venv .venv
+source .venv/bin/activate  # Windows: .venv\Scripts\activate
+python -m pip install -e .
+jupyter lab
+```
+
+Explore the notebooks in `ai_ml/experiments/`.
+
 ## Notes
 
 - This is a learning repository, so most files are standalone examples.
