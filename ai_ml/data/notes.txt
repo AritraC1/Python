@@ -1,0 +1,5 @@
+Data Folder
+
+1. Raw - original datasets (never touched)
+2. Processed - cleaned/feature engineered data
+3. External - datasets from APIs / downloads

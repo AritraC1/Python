@@ -1,0 +1,10 @@
+# Virtual Env
+venv/
+__pycache__/
+*.pyc
+
+# Metadata
+*.egg-info/
+
+# Dump
+.DS_Store

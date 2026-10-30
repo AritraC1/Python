@@ -1,74 +1,40 @@
-# Python
+# Python Learning Repository
 
-## Introduction
-This repo covers Python fundamentals, OOP, DSA, multithreading, exception handling, file I/O, and key libraries like collections and itertools. It includes real-world projects and coding challenges (LeetCode, HackerRank).
+This repo is a hands-on Python playground for learning core concepts, advanced features, algorithms, and small real-world projects.
 
-## Topics Covered
+## What’s inside
 
-### Python Fundamentals
-- Variables, data types, and operators
-- Control flow (if-else, loops)
-- Functions and scope
-- Built-in functions and modules
+- `core/` — Python basics: variables, loops, functions, strings, lists, dictionaries, sets
+- `advance/` — advanced Python topics like decorators, context managers, generators, match-case, lambda, walrus operator
+- `oop/` — object-oriented programming and related patterns
+- `dsa/` — data structures and algorithms
+- `collections_module/`, `functools_module/`, `itertools_module/` — standard library modules and usage patterns
+- `concurrency/` — threading, multiprocessing, async concepts
+- `exception_handling/` and `file_handling/` — errors and file I/O
+- `maths/` — mathematical and number-based exercises
+- `projects/` — simple Python apps and mini-projects
+- `ai_ml/` — machine learning and data science experiments
+- `practice/` — coding challenge and problem-solving practice
 
-### Object-Oriented Programming (OOP)
-- Classes and objects
-- Inheritance and polymorphism
-- Encapsulation and abstraction
-- Special methods (__init__, __str__, etc.)
+## Best way to use this repo
 
-### Data Structures & Algorithms (DSA)
-- Arrays, Linked Lists, Stacks, Queues
-- Trees, Graphs, Heaps, Hash Tables
-- Sorting and Searching algorithms
-- Recursion and Dynamic Programming
+Start from the basics and move forward in order:
 
-### Multithreading
-- Thread creation and management
-- Thread synchronization and locks
-- Use cases and performance considerations
+1. `core/` for fundamentals
+2. `advance/` for Python language features
+3. `oop/` and `dsa/` for design and problem solving
+4. `projects/` and `ai_ml/` for applied work
 
-### Exception Handling
-- Try, except, finally
-- Raising custom exceptions
-- Best practices for error handling
+## Run a script
 
-### File I/O
-- Reading and writing files
-- Working with different file formats (.txt, .csv, .json)
-- Context managers
-
-### Standard Libraries
-- collections (Counter, defaultdict, deque, etc.)
-- itertools (combinations, permutations, groupby, etc.)
-
-## Projects
-
-| **Project Name**         | **Description**                               | **Key Features**                                               | **Technology Used**            | **Concepts Covered**                              |
-|----------------------|-------------------------------------------|------------------------------------------------------------|----------------------------|-----------------------------------------------|
-| Snake Water Gun Game | Rock-paper-scissors style game variant    | User vs computer, score tracking, multiple rounds          | Python standard library    | Conditionals, Random, Loops, Input/Output     |
-| Password Generator   | A tool to create strong, secure passwords | Customizable length, includes symbols/numbers/letters, copy to clipboard | Python standard library | Random module, string manipulation, user input |
-
-## Resources
-
-### YouTube Channels
-
-| **Channel**               | Description             | Link                                                                                                                                                                          |
-|---------------------------|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Chai aur Code**         | Python in-depth (Hindi) | [Part 1](https://www.youtube.com/watch?v=v9bOWjwdTlg&t=17417s&ab_channel=ChaiaurCode) • [Part 2](https://www.youtube.com/watch?v=Cri8__uGk-g&t=13997s&ab_channel=ChaiaurCode) |
-| **Programming with Mosh** | Python in one video     | [Watch Here](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=1118s&pp=ygUGUHl0aG9u)                                                                                             |
-
-## Getting Started
-
-Clone the repository:
 ```bash
-git clone https://github.com/AritraC1/Python.git
-cd python
+python core/hello.py
+python projects/snake_water_gun/main.py
 ```
 
-## Keep Learning
-“The only way to learn a new programming language is by writing programs in it.” — Dennis Ritchie
+## Notes
+
+- This is a learning repository, so most files are standalone examples.
+- Each folder is meant to be explored independently.
 
 ---
-
-Happy Coding! ✨
